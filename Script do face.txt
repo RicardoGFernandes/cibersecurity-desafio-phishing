@@ -1,0 +1,11 @@
+Fazendo scripst com o kali para phishing do facebook
+
+1-Rodar o kali no modo root
+2-usar setoolkit
+3-Selecionar no menu o nº1(Social-engineering attaks)
+4-Selecionar no menu o nº2(website attack vector)
+5-Selecionar no menu o nº3(Credential harvester attack method)
+6-Selecionar no menu o nº4(Site cloner)
+7-Selecionar no menu o nº5(colocar o endereço do site no meu caso fiz com o facebook tbm)
+8-Fiz a coleta das informações primeiro com o debian esse na me trouxe as informações corretas
+9-Fiz com uma maquina xp totalmente desatualizada e com essa tive exito!!!
